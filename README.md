@@ -1,0 +1,1 @@
+The code in this repo can be used to several open source deep learning models on a dataset of DICOM X-ray images. ETL/preprocessing functionality can be found in data.py, model loading and inference in models.py, and running it all together in test.py.
